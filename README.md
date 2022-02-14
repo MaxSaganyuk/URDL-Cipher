@@ -33,10 +33,14 @@ lnob u3 1!ve 54rnw! -> this is urdl cipher
 
 First, you choose either default key or custom one. (Obviously, default one should be used only for demonstration of work)
 
-
+<img src="readMeImages\img3.png"></img>
 
 Menu offers to encrypt, decrypt and randomly generate other key to use.
 
+<img src="readMeImages\img4.png"></img>
 
+Encipher and decipher examples:
 
+<img src="readMeImages\img5.png"></img>
+<img src="readMeImages\img6.png"></img>
 
