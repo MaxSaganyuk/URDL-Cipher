@@ -29,6 +29,14 @@ To Decipher ciphertext back to plaintext, you move the opposite directions on th
 
 lnob u3 1!ve 54rnw! -> this is urdl cipher 
 
-##__Program__
+## __Program__
+
+First, you choose either default key or custom one. (Obviously, default one should be used only for demonstration of work)
+
+
+
+Menu offers to encrypt, decrypt and randomly generate other key to use.
+
+
 
 
